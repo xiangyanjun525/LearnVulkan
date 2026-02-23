@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11Frames", "11Frames\11Fram
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12ReCreateSwapChain", "12ReCreateSwapChain\12ReCreateSwapChain.vcxproj", "{6B74779A-6ACA-458F-86C9-E973783983BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13VertexBuffer", "13VertexBuffer\13VertexBuffer.vcxproj", "{37E77A91-7416-4E50-9A91-995AF52B4872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{6B74779A-6ACA-458F-86C9-E973783983BD}.Release|x64.Build.0 = Release|x64
 		{6B74779A-6ACA-458F-86C9-E973783983BD}.Release|x86.ActiveCfg = Release|Win32
 		{6B74779A-6ACA-458F-86C9-E973783983BD}.Release|x86.Build.0 = Release|Win32
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Debug|x64.ActiveCfg = Debug|x64
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Debug|x64.Build.0 = Debug|x64
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Debug|x86.ActiveCfg = Debug|Win32
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Debug|x86.Build.0 = Debug|Win32
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Release|x64.ActiveCfg = Release|x64
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Release|x64.Build.0 = Release|x64
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Release|x86.ActiveCfg = Release|Win32
+		{37E77A91-7416-4E50-9A91-995AF52B4872}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

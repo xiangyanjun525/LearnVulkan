@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7d713d80-2398-4e79-bdaf-5da065d2cec8}</ProjectGuid>
-    <RootNamespace>My07RenderProcess</RootNamespace>
+    <ProjectGuid>{6b74779a-6aca-458f-86c9-e973783983bd}</ProjectGuid>
+    <RootNamespace>My12ReCreateSwapChain</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

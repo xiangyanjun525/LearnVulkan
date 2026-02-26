@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13VertexBuffer", "13VertexB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14Uniform", "14Uniform\14Uniform.vcxproj", "{33A5993E-82A4-4B22-A843-71D8375DB9D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15TextureMapping", "15TextureMapping\15TextureMapping.vcxproj", "{000EDA78-F9CE-43E4-967D-D904C767056F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{33A5993E-82A4-4B22-A843-71D8375DB9D6}.Release|x64.Build.0 = Release|x64
 		{33A5993E-82A4-4B22-A843-71D8375DB9D6}.Release|x86.ActiveCfg = Release|Win32
 		{33A5993E-82A4-4B22-A843-71D8375DB9D6}.Release|x86.Build.0 = Release|Win32
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Debug|x64.ActiveCfg = Debug|x64
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Debug|x64.Build.0 = Debug|x64
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Debug|x86.ActiveCfg = Debug|Win32
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Debug|x86.Build.0 = Debug|Win32
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Release|x64.ActiveCfg = Release|x64
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Release|x64.Build.0 = Release|x64
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Release|x86.ActiveCfg = Release|Win32
+		{000EDA78-F9CE-43E4-967D-D904C767056F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

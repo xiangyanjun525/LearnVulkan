@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17LoadMode", "17LoadMode\17
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16Depth", "16Depth\17Depth.vcxproj", "{3E03863C-08EC-4290-924E-74E6AFA0CB01}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18Mipmap", "18Mipmap\18Mipmap.vcxproj", "{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{3E03863C-08EC-4290-924E-74E6AFA0CB01}.Release|x64.Build.0 = Release|x64
 		{3E03863C-08EC-4290-924E-74E6AFA0CB01}.Release|x86.ActiveCfg = Release|Win32
 		{3E03863C-08EC-4290-924E-74E6AFA0CB01}.Release|x86.Build.0 = Release|Win32
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Debug|x64.ActiveCfg = Debug|x64
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Debug|x64.Build.0 = Debug|x64
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Debug|x86.Build.0 = Debug|Win32
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Release|x64.ActiveCfg = Release|x64
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Release|x64.Build.0 = Release|x64
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Release|x86.ActiveCfg = Release|Win32
+		{CD159F91-A6F6-4A00-8DA1-B3DA65B6771A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
